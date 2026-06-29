@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3d0002/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 農書後序西山陳居士於六經諸子百家之書釋老氏黄帝神農氏之學貫穿出入徃徃成誦如見其人如指諸掌下至術數小道亦精其能其尤精者易也平生讀書不求仕進所至即種藥治圃以自給紹興己巳自西山來訪予於儀真時年七十四出所著農書三卷曰此吾閑中事業不足拈出然使沮溺耦耕之徒見之必有忻然相契處樊遟請學稼子曰吾不如老農先聖之言吾志也樊遟之學吾事也是或一道也僕喜其言取其書讀之三復曰如居士者可謂士矣因以儀真勸農文附其後俾屬邑刻而傳之丹陽洪興祖序
+  hash: sha256:27092538def9b41f179445c249c912d535ce05df2c6021a6000b09c1ca108c60
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3d0002_WYG_004-1a, image: WYG0730/WYG0730-0192a.png}
+metadata:
+  title: 農書
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:03:26.408032'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR3d0002/KR3d0002_004.txt
+hash: sha256:f47a675e5b8a4e996cb1eb646b28b9c3e1fec71f6af4fb879404a34fc23119a4
