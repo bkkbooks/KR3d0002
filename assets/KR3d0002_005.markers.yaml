@@ -11,10 +11,13 @@ markers:
 
       ', id: KR3d0002_krp_005-bkkkrnewl2}
   - {type: line-break, offset: 4, content: '', id: KR3d0002_WYG_005-1a02}
+  - {type: substitution, offset: 22, original: 𫝊, replacement: 傳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0216}}
   - {type: 'kr:newline', offset: 25, content: '
 
       ', id: KR3d0002_krp_005-bkkkrnewl3}
   - {type: line-break, offset: 25, content: '', id: KR3d0002_WYG_005-1a03}
+  - {type: substitution, offset: 28, original: 㒹, replacement: 顛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6123}}
+  - {type: substitution, offset: 43, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: 'kr:newline', offset: 46, content: '
 
       ', id: KR3d0002_krp_005-bkkkrnewl4}
@@ -27,11 +30,13 @@ markers:
 
       ', id: KR3d0002_krp_005-bkkkrnewl6}
   - {type: line-break, offset: 88, content: '', id: KR3d0002_WYG_005-1a06}
+  - {type: substitution, offset: 90, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17195}}
   - {type: variant, offset: 97, length: 1, content: 嗤, WYG: 􅅓}
   - {type: 'kr:newline', offset: 109, content: '
 
       ', id: KR3d0002_krp_005-bkkkrnewl7}
   - {type: line-break, offset: 109, content: '', id: KR3d0002_WYG_005-1a07}
+  - {type: substitution, offset: 125, original: 冩, replacement: 寫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20078}}
   - {type: 'kr:newline', offset: 130, content: '
 
       ', id: KR3d0002_krp_005-bkkkrnewl8}
@@ -52,4 +57,4 @@ markers:
 
       ', id: KR3d0002_krp_005-bkkkrnewl12}
   back: []
-hash: sha256:41e8e42cc4a2688a693d9938dae2c4231d60755fbdc08c26ceae9d817aa2b9b9
+hash: sha256:bef72b78429ec1f65414b2af34753e67e7dc9e532da1e03a6de07d3e5ac8214a
